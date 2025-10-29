@@ -1,7 +1,7 @@
 👋 Hi, I’m Rosey 
 
  An Electrical & Electronics Engineering student, LAUTECH  
-🤖 Exploring embedded systems, computer vision & automation.  
+🤖 Exploring embedded systems, computer vision, Robotics and Automaton 
 🛠️ Building tools and projects that solve real-world problems.    
 🎯 Passionate about robotics, AI, and turning ideas into working prototypes. 
 🧩 I believe every bug has a lesson.  

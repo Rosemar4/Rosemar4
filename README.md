@@ -1,9 +1,1 @@
-👋 Hi, I’m Rosey 
-
- An Electrical & Electronics Engineering student, LAUTECH  
-🤖 Exploring embedded systems, computer vision, Robotics and Automaton 
-🛠️ Building tools and projects that solve real-world problems.    
-🎯 Passionate about robotics, AI, and turning ideas into working prototypes. 
-🧩 I believe every bug has a lesson.  
-⚡ Superpower: Turning “what if” ideas into working prototypes.  
-😂 Fun fact: My Arduino crashes less often than my laptop.
+Rosey: EEE student dedicated to leveraging C++/Python for Embedded Systems and Robotics, reliably turning complex ideas into working prototypes (a process my Arduino consistently outperforms my PC in).

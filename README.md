@@ -1,1 +1,4 @@
-Rosey: EEE student dedicated to leveraging C++/Python for Embedded Systems and Robotics, reliably turning complex ideas into working prototypes (a process my Arduino consistently outperforms my PC in).
+<img width="4128" height="1024" alt="Headline Tag Rosey" src="https://github.com/user-attachments/assets/7da2f9ac-c5e5-4b8a-b4f2-da2ebd8070e1" />
+
+
+EEE Graduate student @LAUTECH  
